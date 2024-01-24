@@ -30,7 +30,7 @@ export default {
     usePageStore,
     onPageChange(page) {
       usePageStore().setCurrentPage(page);
-      console.log("Сейчас активна страница:", usePageStore().currentPage);
+      console.log("Active Page:", usePageStore().currentPage);
     },
   },
 };

@@ -79,7 +79,7 @@
         <input type="checkbox" id="txtCheckbox" required />
         <span class="checkmark"></span>
       </label>
-      <button type="submit" class="btn1" href="thank_you_pg" onclick="checkInputs()">
+      <button type="submit" class="btn1" href="thank_you_pg">
         Sign up for the course
       </button>
     </form>

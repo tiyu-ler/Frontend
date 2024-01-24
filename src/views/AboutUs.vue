@@ -67,7 +67,6 @@
   </div>
 </template>
 <script>
-// import checkInput from '../../public/js/checkInput.js'
 import graduates from '@/assets/graduates.json'
 import lecturers from '@/assets/lecturers.json'
 import LectureCardComponent from '@/components/LectureCardComponent.vue'
