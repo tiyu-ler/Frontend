@@ -1,0 +1,34 @@
+{
+  "lecturers": [
+    {
+      "name": "Paulie Bradford",
+      "slug": "bradford",
+      "image": "emp_1.png",
+      "id": 1,
+      "role": "CEO & Engineering teacher",
+      "description": "Since foundation the company more than 2 thousand students have been trained. Paulie has a Ph.D. in engineering as well as extensive experience as a teacher, which can guarantee a pleasant learning experience.",
+      "mail": "PauBradfWork@gmail.com",
+      "life_path": "As a child, Paulie Bradford dreamed of inventions that would help change the world. If you have ever seen human prosthetics, you will understand where he was able to come with his dream. \"The idea of making an invention appealed to me as one of the few available ways to achieve a change in my economic situation, while at the same time drawing attention to technical things and giving me the opportunity to contribute to society,\" he wrote. His innovative invention changed lives and gave a new chance to people with disabilities. Alfred University awarded Paulie an honorary doctorate in 2011 in recognition of his contributions to science and industry. He was also inducted into the National Inventors Hall of Fame and the Buffalo Museum of Science Hall of Fame."
+    },
+    {
+      "name": "Octavia Mable",
+      "slug": "mable",
+      "image": "emp_2.png",
+      "id": 1,
+      "role": "Lecturer in machine learning",
+      "description": "Octavia has been working with us for 6 years, during which she has successfully prepared hundreds of students for work. Octavia is also a specialist in her field, as she graduated from Boston University with honors.",
+      "mail": "OctaviaLrnMable@gmail.com",
+      "life_path": "Prior to joining Radiane in 2016, Octavia was the Director of Data Science, Cloud and Artificial Intelligence at Microsoft Asia from 2010-2016. Octavia leads a team of data and machine learning researchers who bring innovative and advanced AI and machine learning technologies to enterprises, and develop future advances in AI. Octavia Mable holds a PhD in Machine Learning and is an artificial intelligence developer, researcher, practitioner and educator, as well as an open source software developer, with over 10 years of experience in the field. She is the author of many books and articles, as well as a number of popular software packages, including Rattle for data mining."
+    },
+    {
+      "name": "Miron Crouw",
+      "slug": "crouw",
+      "image": "emp_3.jpeg",
+      "id": 1,
+      "role": "Software teacher",
+      "description": "Myron is a creative person, which, combined with his knowledge and skills as a teacher, helps to find an approach and teach everyone the necessary skills quite easily.",
+      "mail": "MiromTheCrow@gmail.com",
+      "life_path": "Miron received a Bachelor's degree in Mechanical Engineering and then a Master's degree in Electrical Engineering from the University of California, Santa Barbara. While at UCSB, I started my career as a software engineer as a VMS systems programmer at General Research Corporation. There, he became one of the leading programmers in the division, updating device drivers, writing the EDX Editor, which became very popular, and receiving continuing recognition for outstanding contributions. In this position he wrote, maintained and upgraded a wafer defect tracking database program that transformed and reduced defect tracking time from 5 minutes to 10 seconds. Shortly after closing Miron Crouw, Miron Crouw accepted a position as software developer and editor-in-chief at Multi-Edit Software, Inc. I completed code development for their text and code editor, found and fixed bugs, and created extensive documentation."
+    }
+  ]
+}

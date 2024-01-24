@@ -1,0 +1,68 @@
+{
+  "graduates": [
+    {
+      "id": 1,
+      "date": "Sep 22, 2016",
+      "occupation": "Creation of autonomous cars",
+      "story": "After completing the course, I was able to get a job at AiTax - a company that develops autonomous cars.",
+      "image": "1st.jpg",
+      "name": "Klah Moacir"
+    },
+    {
+      "id": 2,
+      "date": "Nov 18, 2017",
+      "occupation": "Antivirus development",
+      "story": "After completing the courses, I was able to get a job in NOD - a company that creates antiviruses.",
+      "image": "2st.jpg",
+      "name": "Marie Carina"
+    },
+    {
+      "id": 3,
+      "date": "Dec 12, 2018",
+      "occupation": "Creation of vidioprocessor",
+      "story": "After completing the course, I was able to get a job at Nvidia - a company that creates graphics cards.",
+      "image": "3st.jpg",
+      "name": "Annette Liv"
+    },
+    {
+      "id": 4,
+      "date": "Jan 19, 2019",
+      "occupation": "Creation of vidioprocessor",
+      "story": "After completing the course, I was able to get a job at AMD - a company that creates graphics cards.",
+      "image": "4st.jpg",
+      "name": "Catahecassa Ehecatl"
+    },
+    {
+      "id": 5,
+      "date": "Sep 17, 2020",
+      "occupation": "Creation of prostheses",
+      "story": "After completing the course, I was able to give children a better life by developing innovative prostheses.",
+      "image": "5st.jpg",
+      "name": "Kristina Lise"
+    },
+    {
+      "id": 6,
+      "date": "Aug 10, 2020",
+      "occupation": "Engineering of processors",
+      "story": "After completing the courses, I was able to get a job at AMD, a company that creates processors.",
+      "image": "6st.jpg",
+      "name": "Sven Julius"
+    },
+    {
+      "id": 7,
+      "date": "Mar 15, 2021",
+      "occupation": "Development of AI for Ai Dungeon",
+      "story": "After completing the courses, I was able to become a full-fledged artificial intelligence developer for Ai Dungeon.",
+      "image": "7st.jpg",
+      "name": "Newen Sequoyah"
+    },
+    {
+      "id": 8,
+      "date": "Nov 27, 2022",
+      "occupation": "Job in Rockstar Games",
+      "story": "After completing the course, I was able to achieve my dream and work on my favorite games.",
+      "image": "8st.jpg",
+      "name": "Michael Richard"
+    }
+  ]
+}

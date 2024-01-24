@@ -1,0 +1,52 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "online",
+      "price": "€ 509",
+      "lessons": "✔",
+      "materials": "✔",
+      "homework": "✔",
+      "platform": "✔",
+      "certificate": "✔",
+      "communication": " ",
+      "employment": " "
+    },
+    {
+      "id": 2,
+      "name": "online+",
+      "price": "€ 659",
+      "lessons": "✔",
+      "materials": "✔",
+      "homework": "✔",
+      "platform": "✔",
+      "certificate": "✔",
+      "communication": "✔",
+      "employment": "✔"
+    },
+    {
+      "id": 3,
+      "name": "offline",
+      "price": "€ 709",
+      "lessons": "✔",
+      "materials": "✔",
+      "homework": "✔",
+      "platform": "✔",
+      "certificate": "✔",
+      "communication": " ",
+      "employment": " "
+    },
+    {
+      "id": 4,
+      "name": "offline+",
+      "price": "€ 859",
+      "lessons": "✔",
+      "materials": "✔",
+      "homework": "✔",
+      "platform": "✔",
+      "certificate": "✔",
+      "communication": "✔",
+      "employment": "✔"
+    }
+  ]
+}
