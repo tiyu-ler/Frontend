@@ -190,14 +190,14 @@ input[type='name']:focus {
   display: inline-block;
   padding: 8px;
   color: white;
+  margin-top:5px;
   background-color: #000;
   text-align: center;
-  cursor: pointer;
   width: 100%;
 }
-.but_emp:hover {
+/* .but_emp:hover {
   background-color: rgb(36, 36, 36);
-}
+} */
 .emp_pic {
   object-fit: cover;
   width: 390px;

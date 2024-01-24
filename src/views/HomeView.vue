@@ -30,9 +30,7 @@
             <p>{{ lecturer.description }}</p>
           </div>
           <p>{{ lecturer.mail }}</p>
-          <router-link to="/AboutUs">
-            <button class="but_emp">More information</button>
-          </router-link>
+            <h3 class="but_emp">See more information at AboutUs page</h3>
         </div>
       </div>
     </div>
